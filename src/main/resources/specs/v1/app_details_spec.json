@@ -1,0 +1,471 @@
+{
+  "version": "1.0",
+  "dataSource": "ds:5",
+  "title": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "description": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 72}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "summary": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 73}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "installs": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 13}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "minInstalls": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 13}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "maxInstalls": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 13}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "score": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 51}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "ratings": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 51}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "reviews": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 51}},
+      {"Index": {"value": 3}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "histogram": {
+    "oneStar": {
+      "elements": [
+        {"Key": {"value": "ds:5"}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 51}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 1}}
+      ]
+    },
+    "twoStar": {
+      "elements": [
+        {"Key": {"value": "ds:5"}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 51}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 1}}
+      ]
+    },
+    "threeStar": {
+      "elements": [
+        {"Key": {"value": "ds:5"}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 51}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 3}},
+        {"Index": {"value": 1}}
+      ]
+    },
+    "fourStar": {
+      "elements": [
+        {"Key": {"value": "ds:5"}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 51}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 4}},
+        {"Index": {"value": 1}}
+      ]
+    },
+    "fiveStar": {
+      "elements": [
+        {"Key": {"value": "ds:5"}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 2}},
+        {"Index": {"value": 51}},
+        {"Index": {"value": 1}},
+        {"Index": {"value": 5}},
+        {"Index": {"value": 1}}
+      ]
+    }
+  },
+  "price": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 57}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "isFree": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 57}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "currency": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 57}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "offersIAP": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 19}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "IAPRange": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 19}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "icon": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 95}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 3}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "headerImage": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 96}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 3}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "screenshots": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 78}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "video": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 100}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 3}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "videoImage": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 100}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 3}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "developer": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 68}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "developerId": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 68}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 4}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "developerEmail": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 69}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "developerWebsite": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 69}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 5}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "developerAddress": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 69}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "genre": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 79}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "genreId": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 79}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "familyGenre": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 79}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "familyGenreId": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 79}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "appSize": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 13}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "androidVersion": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 140}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "contentRating": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 9}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "contentRatingDescription": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 9}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "adSupported": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 48}}
+    ]
+  },
+  "containsAds": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 48}}
+    ]
+  },
+  "releaseDate": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 10}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "lastUpdateTimestamp": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 145}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "currentVersion": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 140}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 0}}
+    ]
+  },
+  "recentChanges": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 144}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 1}}
+    ]
+  },
+  "privacyPolicy": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 99}},
+      {"Index": {"value": 0}},
+      {"Index": {"value": 5}},
+      {"Index": {"value": 2}}
+    ]
+  },
+  "similarApps": {
+    "elements": [
+      {"Key": {"value": "ds:5"}},
+      {"Index": {"value": 1}},
+      {"Index": {"value": 2}},
+      {"Index": {"value": 64}},
+      {"Index": {"value": 0}}
+    ]
+  }
+}

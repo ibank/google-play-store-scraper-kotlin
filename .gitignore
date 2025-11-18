@@ -1,0 +1,56 @@
+# Gradle
+.gradle/
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Test output
+test-results/
+test-outputs/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Local configuration
+local.properties
+gradle.properties
+
+# Security - NEVER commit these!
+*.gpg
+*.asc
+secring.gpg
+gpg-private-key.txt
+*-private-key.txt
+*.key
+*.pem
+
+# Documentation builds
+docs/build/
+*.doctree
+
+# Generated files
+*.md.backup
+
+# OS specific
+Thumbs.db
