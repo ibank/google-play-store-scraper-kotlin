@@ -33,7 +33,7 @@ Add to your `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("com.modern.playscraper:play-store-scraper:1.0.0")
+    implementation("io.github.ibank:play-store-scraper:1.0.0")
 }
 ```
 
