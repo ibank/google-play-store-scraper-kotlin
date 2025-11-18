@@ -41,6 +41,8 @@ jobs:
         echo "$GPG_PRIVATE_KEY" | base64 -d > private.key
         gpg --batch --import private.key
         rm private.key
+        # Export to secring.gpg for Gradle signing plugin
+        gpg --batch --pinentry-mode loopback --passphrase="$GPG_PASSPHRASE" --export-secret-keys > $HOME/.gnupg/secring.gpg
 
     - name: Build and test
       run: ./gradlew build test --no-daemon --stacktrace
